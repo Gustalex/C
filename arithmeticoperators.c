@@ -23,4 +23,20 @@ int main(){
     printf("%f", z);
 
     return 0;
+
+    // augmented assignment operators = used to replace a statement where an operator takes a variable
+    //                                  as on of its arguments and then the result back same variable
+    //                                  x = x+1
+    //                                  x+=1
+
+    int x = 10 
+
+    // x = x + 2;
+    // x+=2;
+
+    // x = x - 3;
+    // x-=3;
+        
+    // x = x * 4; 
+    // x*=4   
 }
